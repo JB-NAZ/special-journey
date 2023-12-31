@@ -1,0 +1,15 @@
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.deps.json
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.dll
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.pdb
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.sourcelink.json
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.dll
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/refint/Final.dll
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.pdb
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/ref/Final.dll

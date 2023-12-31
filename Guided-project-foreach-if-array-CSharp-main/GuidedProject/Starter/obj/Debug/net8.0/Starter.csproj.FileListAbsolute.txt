@@ -1,0 +1,15 @@
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/jb-naz/Documents/WebPortfolio-v2/special-journey/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
